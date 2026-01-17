@@ -24,7 +24,7 @@ A simple Tic Tac Toe game built as a learning project to practice programming lo
 ![Tic Tac Toe Clean Slate](ssclean.png)
 ![Tic Tac Toe X wins](ssx.png)
 ![Tic Tac Toe O wins](sso.png)
-![Tic Tac Toe Draw](sssdraw.png)
+![Tic Tac Toe Draw](ssdraw.png)
 
 
 ## Purpose
